@@ -57,7 +57,8 @@ This validation ensures accurate routing and visibility when HR cases are create
 **HR Payroll Group**
 - Taylor Johnson
 - Alex Martinez
-<img width="1901" height="799" alt="Screen Shot 2026-01-27 at 6 37 33 PM" src="https://github.com/user-attachments/assets/37cf371b-c7db-4414-b2d0-283793e1695d" />
+<img width="1581" height="622" alt="Screen Shot 2026-01-27 at 8 28 44 PM" src="https://github.com/user-attachments/assets/b6199d4e-1ddc-4a92-97fb-0555d6a32b14" />
+
 
 
 **HR Tier 1 Group**
