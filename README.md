@@ -47,16 +47,18 @@ Group membership was validated by:
 - Reviewing the member list on each HR group
 - Confirming both users appear in the HR Payroll and HR Tier 1 groups
 - Verifying group memberships from the user record level
-<img width="1907" height="878" alt="Screen Shot 2026-01-27 at 6 48 42 PM" src="https://github.com/user-attachments/assets/ce9ce0f6-35e0-4a9e-bd12-ed1c9d6b7802" />
-<img width="1907" height="878" alt="Screen Shot 2026-01-27 at 6 50 45 PM" src="https://github.com/user-attachments/assets/7fc8a0ca-1f2f-4051-b8ac-89e66566e5b6" />
 
 This validation ensures accurate routing and visibility when HR cases are created.
+
+<img width="1907" height="878" alt="Screen Shot 2026-01-27 at 6 48 42 PM" src="https://github.com/user-attachments/assets/ce9ce0f6-35e0-4a9e-bd12-ed1c9d6b7802" />
+<img width="1907" height="878" alt="Screen Shot 2026-01-27 at 6 50 45 PM" src="https://github.com/user-attachments/assets/7fc8a0ca-1f2f-4051-b8ac-89e66566e5b6" />
 
 ## Sample Group Memberships
 
 **HR Payroll Group**
 - Taylor Johnson
 - Alex Martinez
+  
 <img width="1581" height="622" alt="Screen Shot 2026-01-27 at 8 28 44 PM" src="https://github.com/user-attachments/assets/b6199d4e-1ddc-4a92-97fb-0555d6a32b14" />
 
 
@@ -64,6 +66,7 @@ This validation ensures accurate routing and visibility when HR cases are create
 **HR Tier 1 Group**
 - Taylor Johnson
 - Alex Martinez
+
 <img width="1901" height="827" alt="Screen Shot 2026-01-27 at 6 41 07 PM" src="https://github.com/user-attachments/assets/08a00354-e56c-48c0-9d3d-245547ac2683" />
 
 
